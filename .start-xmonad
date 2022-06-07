@@ -1,0 +1,4 @@
+feh --bg-scale ~/Pictures/bck.jpg &
+fcitx5 &
+xmonad
+
